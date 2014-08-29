@@ -1,0 +1,12 @@
+{
+  "name": "parse-github-repo-url",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "homepage": "https://github.com/jarvys/parse-github-repo-url",
+  "author": "Jarvys <yuhan534@126.com> (https://jarvys.github.io/)",
+  "license": "MIT"
+}
